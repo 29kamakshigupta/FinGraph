@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+trading_memory.db
+final_trading_model
+outputs/
+
+# Large local model bundles (do not commit)
+backend/stock_price_prediction/*.pt
+backend/rl_balancer/portfolio_agent_1M/
+
+# env
+.env
+.env.local
+**/.env
+**/.env.local
