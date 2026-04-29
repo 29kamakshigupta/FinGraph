@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Study DSA", "completed": false },
+    { "id": 2, "title": "Push code", "completed": true },
+    { "id": 3, "title": "Build UI", "completed": false },
+    { "id": 4, "title": "Fix bugs", "completed": false },
+    { "id": 5, "title": "Deploy app", "completed": true }
+  ]
+}

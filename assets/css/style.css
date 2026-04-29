@@ -1,1 +1,60 @@
-body { background: #f1f5f9; }
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #f1f5f9;
+}
+
+/* Layout */
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Buttons */
+.btn {
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background: #6366f1;
+  color: white;
+}
+
+.btn-danger {
+  background: #ef4444;
+  color: white;
+}
+
+/* Cards */
+.card {
+  background: white;
+  padding: 16px;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+/* Forms */
+.input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+/* Repeated utility classes (increase lines) */
+.mt-1 { margin-top: 4px; }
+.mt-2 { margin-top: 8px; }
+.mt-3 { margin-top: 12px; }
+.mt-4 { margin-top: 16px; }
+.mt-5 { margin-top: 20px; }
+
+.text-center { text-align: center; }
+.text-bold { font-weight: bold; }
+
+.bg-light { background: #f9fafb; }
+.bg-dark { background: #1e293b; color: white; }
+

@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": 1, "name": "Shrey", "role": "admin" },
+    { "id": 2, "name": "Rahul", "role": "user" },
+    { "id": 3, "name": "Anita", "role": "user" },
+    { "id": 4, "name": "Vikram", "role": "editor" },
+    { "id": 5, "name": "Neha", "role": "admin" },
+    { "id": 6, "name": "Aman", "role": "user" },
+    { "id": 7, "name": "Priya", "role": "user" },
+    { "id": 8, "name": "Karan", "role": "editor" }
+  ]
+}
